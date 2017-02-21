@@ -1,5 +1,12 @@
 # arduino_dc_rc_car
+
 DC Motor control by Arudino
+
+아슬하다 프로젝트
+
+![](./20170116_221348.jpg)
+
+
 # 1. 연결도
 ![img](./스크린샷,_2017-02-21_15-15-12.png)
 
